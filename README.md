@@ -29,6 +29,4 @@ ___
 ___
 #### License information
 
-<a href="https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/License.txt">The MIT License (MIT)</a>
-
-This project is licensed under the MIT License. The MIT License is a permissive open-source license that allows for free use, copying, modification, and distribution of the software, as long as the license and copyright notice are included. See the LICENSE file for more information.
+This project is licensed under the MIT License. The MIT License is a permissive open-source license that allows for free use, copying, modification, and distribution of the software, as long as the license and copyright notice are included. See the <a href="https://en.wikipedia.org/wiki/MIT_License">The MIT License (MIT)</a> file for more information.
